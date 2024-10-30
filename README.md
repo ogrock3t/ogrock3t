@@ -1,7 +1,7 @@
 # 🧑🏼‍💻 ogrock3t (Askar)
 
 ## Skills
-- 🛠 **PL:** `C++`, `Python`
+- 🛠 **Programming Languages:** `C++`, `Python`
 - 💻 **Algorithms and Data Structures:** [leetcode](https://leetcode.com/u/og_rock3t/) and [sort-me](https://sort-me.org/profile/5078)
 
 ## Education
