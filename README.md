@@ -1,8 +1,8 @@
 # 🧑🏼‍💻 ogrock3t (Askar)
 
 ## Skills
-- 🛠 **Programming Languages:** `Golang`, `C++`, `Python`
-- 💻 **Algorithms and Data Structures:** [leetcode](https://leetcode.com/u/og_rock3t/) and [sort-me](https://sort-me.org/profile/5078)
+- 🛠 **Programming Languages:** `Golang`, `C++` && `Python`
+- 💻 **Algorithms and Data Structures:** [leetcode](https://leetcode.com/u/og_rock3t/) && [sort-me](https://sort-me.org/profile/5078)
 
 ## Education
 - 🏨 **University:** `ITMO University Software Engineering (2024-2028)`
