@@ -17,12 +17,11 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" title="Neovim" alt="Neovim" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="Cmake" alt="Cmake" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
 </div>
 
 
 ## 🎓 Education  
-- 🏨 **University:** ITMO University - Software Engineering (2024–2028)  
+- 🏨 **University:** ITMO - Software Engineering (2024–2028)  
 
 ## 🌱 Currently Learning  
 - 🔹 **C++**  
