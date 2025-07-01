@@ -26,7 +26,6 @@
 - 🏨 **University:** ITMO - Software Engineering (2024–2028)  
 
 ## 🌱 Currently Learning  
-- 🔹 **C++**  
 - 🔹 **Golang**  
 - 🔹 **Algorithms & Data Structures**
 
