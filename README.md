@@ -15,7 +15,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/ogrock3t/ogrock3t/blob/main/distributor-logo-endeavouros.svg" title="Endeavouros" alt="Endeavouros" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/neovim/neovim-original.svg" title="Neovim" alt="Neovim" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cmake/cmake-original.svg" title="Cmake" alt="Cmake" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
@@ -24,10 +23,6 @@
 
 ## 🎓 Education  
 - 🏨 **University:** ITMO - Software Engineering (2024–2028)  
-
-## 🌱 Currently Learning  
-- 🔹 **Golang**  
-- 🔹 **Algorithms & Data Structures**
 
 - ## 📊 GitHub Stats  
 <p align="left">
