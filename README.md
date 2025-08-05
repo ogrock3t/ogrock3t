@@ -24,7 +24,8 @@
 ## 🎓 Education  
 - 🏨 **University:** ITMO - Software Engineering (2024–2028)  
 
-- ## 📊 GitHub Stats  
+
+## 📊 GitHub Stats  
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ogrock3t&layout=compact&theme=tokyonight" height="150" />
   <img src="https://github-readme-stats.vercel.app/api?username=ogrock3t&show_icons=true&theme=tokyonight" height="150" />
