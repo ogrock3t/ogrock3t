@@ -17,6 +17,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
+## 📊 Github Stats 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ogrock3t&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🎓 Education  
 - 🏨 University: ITMO - Software Engineering (2024–2028)  
 
